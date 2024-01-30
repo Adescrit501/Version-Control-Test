@@ -1,0 +1,103 @@
+{
+  "name": "Gotham",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "*": [
+          {
+            "fontSize": 12,
+            "fontFamily": "Gotham",
+            "color": {
+              "solid": {}
+            }
+          }
+        ],
+        "visualTooltip": [
+          {
+            "titleFontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "valueFontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "background": {
+              "solid": {
+                "color": "#EE7203"
+              }
+            }
+          }
+        ],
+        "visualHeaderTooltip": [
+          {
+            "titleFontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "background": {
+              "solid": {
+                "color": "#EE7203"
+              }
+            }
+          }
+        ],
+        "visualHeader": [
+          {
+            "foreground": {
+              "solid": {
+                "color": "#000000"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "label": {
+      "color": "#000000"
+    },
+    "callout": {
+      "color": "#000000"
+    },
+    "title": {
+      "color": "#000000"
+    },
+    "header": {
+      "color": "#000000"
+    }
+  },
+  "foreground": "#000000",
+  "foregroundNeutralSecondary": "#DFDFDF",
+  "backgroundLight": "#F6F6F6",
+  "foregroundNeutralTertiary": "#ECECEC",
+  "background": "#E6DFDF",
+  "backgroundNeutral": "#E5E4E4"
+}
